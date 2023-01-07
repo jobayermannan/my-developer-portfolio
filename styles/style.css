@@ -213,3 +213,25 @@ color: #757575
 text-align: center;
     margin-bottom: 50px;
 }
+.lastpart{
+    display: flex;
+   padding: 200px 200px;
+   background-position: absolute;
+   background: #FFF8F3;
+
+    
+    
+    
+}
+.lastpart .section-title{
+    text-align: left;
+}
+.inputsite input, textarea{
+    margin-bottom: 24px;
+    width: 100%;
+    border: 0;
+    padding: 18px 30px;
+}  
+ .lastpart a{ text-decoration: none;
+
+}
